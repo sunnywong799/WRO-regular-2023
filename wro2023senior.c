@@ -10,5 +10,5 @@
 
 task main()
 {
-	forward(1, rotations, 20);
+	forward(1, rotations, 30);
 }
